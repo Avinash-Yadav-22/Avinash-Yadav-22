@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Avinash-Yadav-22
-- 👀 I’m interested in AI, ML, Programing and solving Puzzles.
+- 👋 Hi, I’m Avinash Yadav.
+- 👀 I’m interested in AI, ML, Programing and Solving Puzzles.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me Twitter-@avi_ay22.
